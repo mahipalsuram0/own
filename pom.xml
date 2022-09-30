@@ -6,7 +6,7 @@
 
     <groupId>com.mkyong</groupId>
     <artifactId>docker-spring-boot</artifactId>
-    <version>1.6</version>
+    <version>1.5</version>
 
     <name>docker-spring-boot</name>
     <url></url>
